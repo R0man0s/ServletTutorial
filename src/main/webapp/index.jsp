@@ -107,5 +107,14 @@
 		<input type="submit" value="Servlet info" />
 	</div>
 </form>
+
+<form method="post" action="userInfo">
+	<br>
+	<div>    <!-- buttons holder -->
+		<input type="submit" value="User info" />
+	</div>
+</form>
+
+
 </body>
 </html>
